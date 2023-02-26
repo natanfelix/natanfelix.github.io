@@ -1,0 +1,26 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: #f9844a;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#nacionalidade {
+    font-weight: bold;
+    color: azure;
+}
+
+#cidade {
+    font-weight: bold;
+    color: azure;
+}
+
+.html {
+font-size: 20px;
+}
+
+.css {
+    font-size: 20px;
+}
