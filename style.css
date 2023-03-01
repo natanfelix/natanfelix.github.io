@@ -3,24 +3,46 @@ h1 {
 }
 
 body {
-    background-color: #f9844a;
+    background-color: #ffffff;
     font-family: 'Courier New', Courier, monospace;
 }
-
-#nacionalidade {
-    font-weight: bold;
-    color: azure;
-}
-
-#cidade {
-    font-weight: bold;
-    color: azure;
-}
-
 .html {
 font-size: 20px;
 }
 
 .css {
     font-size: 20px;
+}
+
+div  {
+    border: 2px solid black;
+}
+
+#meunome{
+    height:20px;
+    text-align: center;
+
+}
+
+#foto{
+    float:left;
+    height: 500px;
+    padding: 10px;
+    background-color: coral;
+}
+
+#apresentacao {
+    height: 460px;
+    position: relative;
+    margin-left:392px;
+    padding: 30px;
+}
+
+#local {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(15, 226, 226);
+}
+ul li:hover {
+    background-color: aqua;
 }
